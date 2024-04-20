@@ -983,7 +983,7 @@ Responsive page Design
         flex-direction: column-reverse;
     }
     .container{
-        height: 120vh;
+        height: 95vh;
     }
     .title{
         font-size: 1.7rem;
