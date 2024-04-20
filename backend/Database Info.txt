@@ -1,6 +1,6 @@
-username - tanveer_alam
+username - tanveermd7
 password - 1XblPEyAT4BweZfh
-database - codofile_db
+database - Codo-File
 
-link - mongodb+srv://tanveer_alam:<password>@codofile.sdp4hsh.mongodb.net/?retryWrites=true&w=majority
-connection - mongodb+srv://tanveer_alam:1XblPEyAT4BweZfh@codofile.sdp4hsh.mongodb.net/?retryWrites=true&w=majority
+link - mongodb+srv://tanveermd7:<password>@codofile.sdp4hsh.mongodb.net/?retryWrites=true&w=majority
+connection - mongodb+srv://tanveermd7:834592@cluster0.dia037a.mongodb.net/?retryWrites=true&w=majority
