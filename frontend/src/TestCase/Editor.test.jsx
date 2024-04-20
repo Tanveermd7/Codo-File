@@ -182,11 +182,11 @@ describe("Python Component",()=>{
 //         render(<Test/>);
 
 //         //normal text matching query
-//         // const textEle = screen.getByText("FaIzAn")
+//         // const textEle = screen.getByText("tanveer")
 
 //         //regrex text matching query
-//         // const textEle = screen.getByText(/faizan/i)     //substring match,ignore case
-//         // const textEle = screen.getByText(/^faizan$/i)       //substring match,ignore case
+//         // const textEle = screen.getByText(/tanveer/i)     //substring match,ignore case
+//         // const textEle = screen.getByText(/^tanveer$/i)       //substring match,ignore case
 //         const textEle = screen.getByText((content)=>content.startsWith("Fa"))       //not a case sensitive but found start letter
 //         expect(textEle).toBeInTheDocument();
 //     })

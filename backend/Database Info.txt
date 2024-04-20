@@ -1,6 +1,6 @@
-username - faizan_alam
+username - tanveer_alam
 password - 1XblPEyAT4BweZfh
 database - codofile_db
 
-link - mongodb+srv://faizan_alam:<password>@codofile.sdp4hsh.mongodb.net/?retryWrites=true&w=majority
-connection - mongodb+srv://faizan_alam:1XblPEyAT4BweZfh@codofile.sdp4hsh.mongodb.net/?retryWrites=true&w=majority
+link - mongodb+srv://tanveer_alam:<password>@codofile.sdp4hsh.mongodb.net/?retryWrites=true&w=majority
+connection - mongodb+srv://tanveer_alam:1XblPEyAT4BweZfh@codofile.sdp4hsh.mongodb.net/?retryWrites=true&w=majority
