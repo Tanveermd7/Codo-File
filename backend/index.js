@@ -10,13 +10,7 @@ const PORT = process.env.PORT ;
 
 require('./db/conn'); 
 
-app.use(cors(
-    {
-        origin: ["https://codo-file-frontend.vercel.app/"],
-        methods: ["POST", "GET"],
-        credentials: true
-    }
-)); 
+app.use(cors()); 
 app.use(express.json()); 
 app.use(require('./router/auth'));
 
