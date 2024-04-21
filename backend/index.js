@@ -1,24 +1,16 @@
-const cors = require('cors');
+const cors = require('cors')
 const dotenv = require('dotenv');
 dotenv.config({path:'./config.env'});
 const mongoose = require('mongoose');
 const express = require('express');
 const app = new express();
 const PORT = process.env.PORT ;
-const corsConfig = {
-    origin:"*",
-    credential: true,
-    methods: ["GET", "POST", "PUT", "DELETE"],
-};
-app.options("", cors(corsConfig));
 
 
-
-const uri = 
 
 require('./db/conn'); 
 
-app.use(cors(corsConfig)); 
+app.use(cors()); 
 app.use(express.json()); 
 app.use(require('./router/auth'));
 
