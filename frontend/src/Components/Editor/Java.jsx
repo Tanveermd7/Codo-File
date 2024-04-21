@@ -39,7 +39,7 @@ function Java() {
         toast.remove();
         toast.error("An Error Occured");
       }
-      // console.log("tanveer Alam",data);
+      // console.log("tanveer ansari",data);
       // toast.remove();
       // toast.success('Executed Successfully.')
       // setCode("");

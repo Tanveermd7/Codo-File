@@ -39,7 +39,7 @@ function Python() {
         toast.remove();
         toast.error("An error Occured.");
       }
-      // console.log("tanveer Alam",data);
+      // console.log("tanveer ansari",data);
       // toast.remove();
       // toast.remove();
       // setCode("");
