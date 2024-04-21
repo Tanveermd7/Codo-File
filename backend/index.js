@@ -10,6 +10,10 @@ const corsConfig = {
     credential: true,
     methods: ["GET", "POST", "PUT", "DELETE"],
 };
+app.options("", cors(corsConfig));
+
+
+
 const uri = 
 
 require('./db/conn'); 
